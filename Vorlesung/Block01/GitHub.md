@@ -4,7 +4,13 @@ Dreh- und Angelpunkt dieses Kurses wird folgende Webseite sein ([hier klicken](h
 ```
 https://github.com/DavidKissDE/python_F73
 ```
-in den Browser tippen
+in den Browser tippen). 
+
+Ihr solltet jetzt folgendes sehen:
+![GitHub Startseite](assets/github_startpage.png)
+
+_Tipp_: Klickt auf `README.md`, damit es sich mehr wie eine Webseite anfühlt!
+
 
 <!-- 
 * __Git__ ist ein __Versionskontrollsystem__. 
@@ -21,7 +27,7 @@ git clone https://github.com/DavidKissDE/python_F73
 
 
 
-[zurück](README.md)
+[zurück](../Block01/README.md)
 
 
 

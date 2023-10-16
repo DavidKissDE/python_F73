@@ -1,6 +1,6 @@
 # Willkommen zum Python Kurs!
 
-Ablaufplan:
+## Ablaufplan
 * Woche 01: 
     * [Block 01](Vorlesung/Block01/README.md): Umgebung aufsetzen und erste Schritte
 * Woche 02: 
