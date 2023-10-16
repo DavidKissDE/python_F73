@@ -10,4 +10,4 @@ Bevor du mit der nächsten Stufe fortfährst, solltest du _sämtliche Aufgaben_ 
 ### weitere Ressourcen
 * [viele Aufgaben](https://www.w3resource.com/python-exercises/) (mit Lösungen)
 
-[Zurück zur Hauptseite ](../../README.md)
+[Zurück zu "Tutorium"](../../README.md)

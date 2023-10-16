@@ -1,7 +1,7 @@
 <!-- ## Willkommen zum Tutorium!
 * Falls ihr Schwierigkeiten habt, im Python-Kurs mitzukommen, seid ihr hier genau richtig 🙂 ([weitere Informationen](resources/README.md)) -->
 
-### Willkommen zum Tutorium!
+# Tutorium
  [wichtige Hinweise](resources/md/hinweise.md)
 
 Stufen bzw. Aufgabenpools (bitte von "oben nach unten" durcharbeiten):

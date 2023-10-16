@@ -1,3 +1,11 @@
 # Folders or Files
-z_*
+[Tt]est*
 TRAINER*
+[Tt]rainer*
+z_*
+zz_*
+zzz_*
+
+# Files
+sb*.py
+sb*.ipynb

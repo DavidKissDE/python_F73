@@ -10,6 +10,6 @@
     *  _oder_ Übungen _zu einem neuen Block_ aus dem Python Pathway.
 
 
-[Zurück zur Hauptseite](../../README.md)
+[Zurück zu "Tutorium"](../../README.md)
 
 
