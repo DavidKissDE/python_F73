@@ -7,3 +7,6 @@ Bevor wir mit der Python-Programmierung loslegen können, müssen wir unsere Arb
 * Google Colab   
 
 Im Laufe der Zeit wird unsere Arbeitsumgebung wachsen und sich verändern.
+
+#### Navigation:
+[Hauptseite](../../README.md)
