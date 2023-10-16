@@ -12,4 +12,5 @@
 * [Online-Kurs](https://exercism.org/tracks/python/concepts) mit Erklärungen und Übungen
 * [Online-Übungen](https://app.codesignal.com/arcade)
 
-[Zurück zur Hauptseite](../../README.md)
+[Zurück zu "Tutorium"](../../README.md)
+

@@ -11,6 +11,5 @@ Stufen bzw. Aufgabenpools (bitte von "oben nach unten" durcharbeiten):
 * [Python Start](aufgaben/03-07_python_start/README.md)
 * [kleine Challenges](aufgaben/Challenges/README.md)
 
-<!-- 
-[Zurück zur Hauptseite](../../README.md)
- -->
+
+[Hauptseite](../README.md)

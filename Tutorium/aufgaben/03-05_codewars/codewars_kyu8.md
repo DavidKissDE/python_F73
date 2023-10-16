@@ -17,4 +17,4 @@ Sobald du damit durch bist:
 * Falls es gut lief, so erhöhe den Schwierigkeitsgrad auf [7 Kyu](codewars_kyu76.md) und fang nochmal von vorne an.
 * Falls du zu manchen Themen die Kata nur mit Mühe lösen konntest, so solltest du zu diesen Themen so lange Kata (auf 8 Kyu) lösen, bis es mit "geringem Aufwand" klappt.
 
-[Zurück zur Hauptseite](../../README.md)
+[Zurück zu "Tutorium"](../../README.md)
