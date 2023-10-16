@@ -7,25 +7,26 @@
 
 * [Tutorium](Tutorium/README.md)
 
-<!-- Zeitplan
-1	Intro, Installation der Software + REPL		
-2	Python #1		
-			
-3	VCS: GIT und Bitbucket		
-4	Python #2		
-			
-5	Python #3: Weitere Datenstrukturen		
-6	Software Testing und Dokumentation		
-			
-7	Python #4		
-8	Markdown		
-			
-9	Clean Code und Design Pattern		
-10	Python #5		
-			
-11	Python #6		
-12	I/O: Core Skills		
+<!-- B01 [75S]
+1 2 3 4 5 7 8 9 10 11 [S65]  57 67 68 70 71 [+10S]   
+Intro, Installation der Software + REPL 
+Python #1  -->
+<!-- B02 [75S]
+6 12 (nur Listen), 13 14 15 16 17 31 
+38 39 41 79  
+VCS: GIT und Bitbucket 
+Python #2 
 -->
+<!-- B03 [20S]
+18 21   Python #3 
+GIT
+-->
+<!-- B04 [70S]  List,Tuple
+12 19 20 21 22 24 36 40   Python #4 
+Markdown 
+ -->
+
+
 <!-- Python PPT
 Grundlagen
 Funktionen
