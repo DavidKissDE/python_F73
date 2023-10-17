@@ -10,7 +10,7 @@ Bevor wir mit der Python-Programmierung loslegen können, müssen wir unsere ini
 Im Laufe der Zeit wird unsere Arbeitsumgebung wachsen und sich verändern.
 
 ## Erste Schritte in Python
-Und schon geht es mit der Programmierung 😀
+Und schon geht es los  mit der Programmierung 😀
 * [Grundlegende Datentypen](GrundlegendeDatentypen.ipynb) in Python
 
 ## Navigation
