@@ -10,3 +10,37 @@ sb*.py
 sb*.ipynb
 *.code-workspace
 
+# Python-specific
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+*.egg
+*.venv/
+
+# IDEs
+.vscode/
+.idea/
+*.iml
+*.project
+*.classpath
+*.settings/
+
+
+## OS-related ##
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+Desktop.ini
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Linux
+*.swp
+*~
+.directory
+.Trash-*
