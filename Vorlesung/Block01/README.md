@@ -1,7 +1,5 @@
 # Block 01: Setup & Erste Schritte
 
-Willkommen im Python Pathway an der F73! Jetzt geht es endlich los 🚀
-
 ## Setup
 Bevor wir mit der Python-Programmierung loslegen können, müssen wir unsere initiale Arbeitsumgebung aufsetzen:
 * [GitHub](docs/GitHub.md): Account erstellen, Repo auf euren Laptop klonen
