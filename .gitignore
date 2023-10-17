@@ -8,3 +8,5 @@ zzz_*
 # Files
 sb*.py
 sb*.ipynb
+*.code-workspace
+
