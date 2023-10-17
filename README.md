@@ -1,4 +1,4 @@
-# Willkommen im Python Pathway der F73!🚀
+# Willkommen im Python Pathway 🚀
 
 ## Ablaufplan
 * Woche 01: 
