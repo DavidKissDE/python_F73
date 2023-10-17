@@ -1,8 +1,10 @@
 # Willkommen im Python Pathway der F73!
 
 ## Ablaufplan
-* Woche 01: 
-    * [Block 01](Vorlesung/Block01/README.md): Umgebung aufsetzen und erste Schritte
+* Block 01
+    * [Umgebung aufsetzen und erste Schritte](/Block01/README.md)
+    * Vorlesung ["Kompilieren & Interpretieren"](/Block01/) 
+
 
 ## Weitere  Ressourcen
 * [Tutorium](Tutorium/README.md)

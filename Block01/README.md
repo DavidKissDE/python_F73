@@ -12,4 +12,4 @@ Und schon geht es los  mit der Programmierung 😀
 * [Grundlegende Datentypen](GrundlegendeDatentypen.ipynb) in Python
 
 ## Navigation
- [Hauptseite](../../README.md)
+ [Hauptseite](../README.md)
