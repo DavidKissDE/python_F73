@@ -1,14 +1,18 @@
-# Block 01: Umgebung aufsetzen, erste Schritte
+# Block 01: Setup & Erste Schritte
 
 Willkommen im Python Pathway an der F73! Jetzt geht es endlich los 🚀
 
-Bevor wir mit der Python-Programmierung loslegen können, müssen wir unsere Arbeitsumgebung aufsetzen:
+## Setup
+Bevor wir mit der Python-Programmierung loslegen können, müssen wir unsere initiale Arbeitsumgebung aufsetzen:
 * [GitHub](docs/GitHub.md): Account erstellen, Repo auf euren Laptop klonen
+* Google Colab: Öffne bitte [diese Datei](ColabSetup.ipynb)
 
-Im Laufe der Zeit wird unsere Arbeitsumgebung  wachsen und sich verändern.
+Im Laufe der Zeit wird unsere Arbeitsumgebung wachsen und sich verändern.
 
+## Erste Schritte in Python
 Und schon geht es mit der Programmierung 😀
-* [Erste Schritte](GrundlegendeDatentypen.ipynb) in Python
+* [Grundlegende Datentypen](GrundlegendeDatentypen.ipynb) in Python
 
 
-[Hauptseite](../../README.md)
+## Navigation
+ [Hauptseite](../../README.md)
