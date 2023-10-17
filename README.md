@@ -1,5 +1,17 @@
 # Willkommen im Python Pathway der F73!
 
+<!-- MEINE LÖSUNGEN
+Probleme, die ich angehen will
+* Leute sind überfordert
+    * teilweise zu viel stoff
+    * materialien überall verstreut
+Die Antwort:
+* Repo = der wichtigste Ort, wird laufend von den Trainern aktualisiert
+* Interaktive Vorlesungen: vorlesungen, die in Juypter NB eingebettet sind
+
+Das Ziel: durchschnittlicher TN ist nicht überfordert sondern hat spass und ist motiviert statt resiginiert
+-->
+
 ## Ablaufplan
 * Block 01
     * [Umgebung aufsetzen und erste Schritte](/Block01/README.md)
