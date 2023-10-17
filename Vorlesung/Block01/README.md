@@ -13,6 +13,5 @@ Im Laufe der Zeit wird unsere Arbeitsumgebung wachsen und sich verändern.
 Und schon geht es mit der Programmierung 😀
 * [Grundlegende Datentypen](GrundlegendeDatentypen.ipynb) in Python
 
-
 ## Navigation
  [Hauptseite](../../README.md)
