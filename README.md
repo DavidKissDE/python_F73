@@ -13,9 +13,8 @@ Das Ziel: durchschnittlicher TN ist nicht überfordert sondern hat spass und ist
 -->
 
 ## Ablaufplan
-* Block 01
-    * [Umgebung aufsetzen und erste Schritte](/Block01/README.md)
-    * Vorlesung ["Kompilieren & Interpretieren"](/Block01/Kompilieren%20&%20Interpretieren.pdf) 
+* [Umgebung aufsetzen und erste Schritte](/Block01/README.md)
+* Vorlesung ["Kompilieren & Interpretieren"](/Block01/Kompilieren%20&%20Interpretieren.pdf) 
 
 
 ## Weitere  Ressourcen
