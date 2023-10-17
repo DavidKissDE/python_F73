@@ -7,7 +7,7 @@ https://github.com/DavidKissDE/python_F73
 in den Browser tippen). 
 
 Ihr solltet jetzt folgendes sehen:
-![GitHub Startseite](assets/github_startpage.png)
+![GitHub Startseite](../assets/github_startpage.png)
 
 _Tipp_: Klickt auf `README.md`, damit es sich mehr wie eine Webseite anfühlt!
 
