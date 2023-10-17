@@ -5,8 +5,8 @@
 * Falls ihr überfordert seid, dann _unbedingt_ Aufgaben auf einer niedrigeren Stufe bearbeiten☝ 
 
 
-## (einzige) Teilnahmevoraussetzung
-* Diejenigen, die persönlich in den Tutorien anwesend sind, arbeiten fleißig an den Aufgaben (youtube & co. sind tabu 😮). 
+<!-- ## (einzige) Teilnahmevoraussetzung
+* Diejenigen, die persönlich in den Tutorien anwesend sind, arbeiten fleißig an den Aufgaben (youtube & co. sind tabu 😮).  -->
 <!-- 1. chatGPT und Google sollten selten und nur zur Klärung von Zwischenschritten verwendet werden. -->
 
 [Zurück zur Hauptseite](../README.md) 
